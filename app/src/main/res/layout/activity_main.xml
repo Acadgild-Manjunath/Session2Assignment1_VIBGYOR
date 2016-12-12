@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.valyoo.session2assignment1_vibgyor.MainActivity"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    android:padding="2dp"
+    android:background="@color/black">
+
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/txtRed"
+    android:layout_width="match_parent"
+    android:text="@string/txtvwRed"
+    android:textAlignment="center"
+    android:textSize="@dimen/fontSize"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/dimen_width"
+    android:background="@color/red">
+</TextView>
+
+<TextView android:id="@+id/txtOrange"
+        android:layout_width="match_parent"
+        android:text="@string/txtvwOrange"
+        android:textAlignment="center"
+        android:textSize="@dimen/fontSize"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dimen_width"
+        android:background="@color/orange" />
+
+    <TextView android:id="@+id/txtYellow"
+        android:layout_width="match_parent"
+        android:text="@string/txtvwYellow"
+        android:textAlignment="center"
+        android:textSize="@dimen/fontSize"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dimen_width"
+        android:background="@color/yellow" />
+
+    <TextView android:id="@+id/txtGreen"
+        android:layout_width="match_parent"
+        android:text="@string/txtvwGreen"
+        android:textAlignment="center"
+        android:textSize="@dimen/fontSize"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dimen_width"
+        android:background="@color/green" />
+
+    <TextView android:id="@+id/txtBlue"
+        android:layout_width="match_parent"
+        android:text="@string/txtvwBlue"
+        android:textAlignment="center"
+        android:textSize="@dimen/fontSize"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dimen_width"
+        android:background="@color/blue" />
+
+    <TextView android:id="@+id/txtIndigo"
+        android:layout_width="match_parent"
+        android:text="@string/txtvwIndigo"
+        android:textAlignment="center"
+        android:textSize="@dimen/fontSize"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dimen_width"
+        android:background="@color/indigo" />
+
+    <TextView android:id="@+id/txtViolet"
+        android:layout_width="match_parent"
+        android:text="@string/txtvwViolet"
+        android:textAlignment="center"
+        android:textSize="@dimen/fontSize"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dimen_width"
+        android:background="@color/violet" />
+
+</LinearLayout>
+

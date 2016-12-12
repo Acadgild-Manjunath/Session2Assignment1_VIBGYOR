@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Session2_Assignment1 (VIBGYOR)</string>
+    <string name="txtvwRed">RED</string>
+    <string name="txtvwOrange">ORANGE</string>
+    <string name="txtvwGreen">GREEN</string>
+    <string name="txtvwYellow">YELLOW</string>
+    <string name="txtvwBlue">BLUE</string>
+    <string name="txtvwIndigo">INDIGO</string>
+    <string name="txtvwViolet">VIOLET</string>
+
+</resources>
